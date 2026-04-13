@@ -21,6 +21,16 @@ Proje, full stack geliştirme prensiplerine sadık kalınarak aşağıdaki moder
 - **Prisma ORM:** Veritabanı modellemesi (`schema.prisma`) ve güvenli sorgu operasyonları için kullanılmıştır. Kod tabanının genişletilebilirliğini ve hata denetimini maksimize eder.
 - **MySQL:** Platformun birincil ilişkisel veritabanı yönetim sistemidir (RDBMS).
 
+### Ekran Görüntüsü
+
+![](/public/Ekran%20Resmi%202026-04-13%2021.49.50.png)
+![](/public/Ekran%20Resmi%202026-04-13%2021.49.55.png)
+![](/public/Ekran%20Resmi%202026-04-13%2021.50.02.png)
+![](/public/Ekran%20Resmi%202026-04-13%2021.50.19.png)
+![](/public/Ekran%20Resmi%202026-04-13%2021.50.49.png)
+![](/public/Ekran%20Resmi%202026-04-13%2021.50.56.png)
+![](/public/Ekran%20Resmi%202026-04-13%2021.51.05.png)
+
 ## Çekirdek Modüller ve Özellikler
 
 ### Kullanıcı Paneli (Main Layout)
