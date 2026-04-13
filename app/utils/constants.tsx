@@ -13,7 +13,7 @@ export const links = [
     },
     {
         href:"/tickets",
-        title:"Tickets",
+        title:"Görevler",
         icon:<FaTicketAlt/>,
     },
     {
